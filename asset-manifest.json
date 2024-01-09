@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd35571d.css",
-    "main.js": "/static/js/main.767c1b11.js",
+    "main.css": "/static/css/main.8399682e.css",
+    "main.js": "/static/js/main.816d6ffb.js",
     "static/media/port04.png": "/static/media/port04.c93859b6e9b9722cf5a0.png",
     "static/media/port03.png": "/static/media/port03.41873d2cb18bc11fc5bc.png",
     "static/media/port05.png": "/static/media/port05.376b4a555fb2e72c65de.png",
@@ -53,11 +53,11 @@
     "static/media/ErosRomanoRegular.woff": "/static/media/ErosRomanoRegular.0089c67d020af3b8fbc5.woff",
     "static/media/ErosRomanoRegular.woff2": "/static/media/ErosRomanoRegular.dababf113e0bb0b2955a.woff2",
     "index.html": "/index.html",
-    "main.cd35571d.css.map": "/static/css/main.cd35571d.css.map",
-    "main.767c1b11.js.map": "/static/js/main.767c1b11.js.map"
+    "main.8399682e.css.map": "/static/css/main.8399682e.css.map",
+    "main.816d6ffb.js.map": "/static/js/main.816d6ffb.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd35571d.css",
-    "static/js/main.767c1b11.js"
+    "static/css/main.8399682e.css",
+    "static/js/main.816d6ffb.js"
   ]
 }
